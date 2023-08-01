@@ -1031,4 +1031,4 @@ function DarkraiX:Window(text,gamenme,logo,keybind)
 	end
 	return uitab
 end
-return UI
+return DarkraiX
